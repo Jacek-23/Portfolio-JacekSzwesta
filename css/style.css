@@ -137,7 +137,6 @@ ul {
     display: flex;
     flex-wrap: wrap;
     margin-left: -15px;
-    margin-right: -15px;
     position: relative;
 
 }
@@ -426,6 +425,7 @@ h3.my-profession {
     text-align: center;
     position: relative;
     margin-top: 20px;
+    margin-left: -15px;
 }
 
 .home-img::after {
