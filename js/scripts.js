@@ -7,7 +7,7 @@ let jobed = new Typed(".job", {
 });
 
 let typed = new Typed(".typing", {
-    strings:[" ", "programing !", "martial arts !", "dance !", "fisching !", "good movies !"],
+    strings:[" ", "programing !", "martial arts !", "dance !", "fishing !", "good movies !"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true
